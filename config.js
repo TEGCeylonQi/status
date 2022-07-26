@@ -32,7 +32,7 @@ window.Config = {
     },
     {
       text: 'MINECRAFT 高玩生存',
-      url: 'http://tegmc.top/'
+      url: 'https://mc.tegceylonqi.cn/'
     }
   ]
 };
