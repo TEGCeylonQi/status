@@ -31,7 +31,7 @@ window.Config = {
       url: 'https://tegceylonqi.cn/'
     },
     {
-      text: 'MINECRAFT 高玩生存',
+      text: 'TEGMC 高玩生存',
       url: 'https://mc.tegceylonqi.cn/'
     }
   ]
